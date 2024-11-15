@@ -14,4 +14,4 @@ read time
 interest=$(echo "$principal * $rate * $time" | bc)
 
 # Display the result
-echo "Simple Interest: $interest"
+echo "Simple Interest: $interest" 
