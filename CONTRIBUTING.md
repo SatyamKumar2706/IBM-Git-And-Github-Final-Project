@@ -11,4 +11,4 @@ Submit a pull request, describing your changes and why they should be merged.
 # Code Review
 All contributions will go through a code review process. Be prepared to address feedback and make necessary revisions.
 
-Thank you for contributing to our project!
+Thank you for contributing to our project!.
